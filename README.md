@@ -19,7 +19,7 @@
 ---
 
 ### :rocket: Donate Me:
-<a href="https://saweria.co/FarrelAuliaIrfealdo" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Farrel Aulia Irfealdo" height="41" width="174"></a>
+<a href="https://saweria.co/nullxd" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Farrel Aulia Irfealdo" height="41" width="174"></a>
 
 ---
 
@@ -32,6 +32,7 @@
 
 ## 🚀 Repo Stats:
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=farrelauliairfealdo&repo=neoxr-bot&theme=radical)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=farrelauliairfealdo&repo=v4.0-rc-beta&theme=radical)
 
 ---
 
